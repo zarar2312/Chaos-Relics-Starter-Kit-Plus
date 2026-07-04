@@ -74,4 +74,8 @@ Config/
   entityclasses.xml
   items.xml
   Localization.csv
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> febb539c95bf4eaf7cdcdf49a9c3d22da1521a34
