@@ -1,6 +1,16 @@
-# Chaos Relics - Starter Kit Plus
+<div align="center">
+  <a href="https://discord.gg/tHChNCMhMV">
+    <img src="./Assets/Images/Chaos%20Relics%20-%20Starter%20Kit%20Plus.png" alt="Chaos Relics - Starter Kit Plus" width="auto" height="auto">
+  </a>
 
-Balanced Day 1 starter support bundle for 7 Days to Die.
+  <h1 align="center">Chaos Relics - Starter Kit Plus v3.0</h1>
+
+  <p align="center">
+    Balanced Day 1 starter support bundle for 7 Days to Die.
+    <br />
+    Server side only | server friendly
+  </p>
+</div>
 
 ## Overview
 This mod gives players a balanced starter kit at game start through a custom `starterKit` bundle.
@@ -65,12 +75,3 @@ Config/
   items.xml
   Localization.csv
 ```
-
-## Screenshots
-
-![Mod Banner](Assets/Images/Chaos%20Relics%20-%20Starter%20Kit%20Plus.png)
-
-![Items Showcase](Assets/Images/starterkit-items-showcase.jpg)
-
-## Notes
-If you maintain forks, please keep bundle balance and localization keys (`starterKit`, `StarterKitDesc`) consistent to avoid UI text issues.
