@@ -9,6 +9,9 @@
     Balanced Day 1 starter support bundle for 7 Days to Die.
     <br />
     Server side only | server friendly
+    <b>
+    https://www.nexusmods.com/7daystodie/mods/11027
+    </b>  
   </p>
 </div>
 
