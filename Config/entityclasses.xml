@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configs>
+
+	<set xpath="/entity_classes/entity_class[@name='playerMale']/property[@class='ItemsOnEnterGame']/property[@name='GameModeSurvival']/@value">
+		starterKit,drinkJarBoiledWater=2,foodCanChili,medicalFirstAidBandage,meleeToolTorch,noteDuke01
+	</set>
+
+	<set xpath="/entity_classes/entity_class[@name='playerMale']/property[@class='ItemsOnEnterGame']/property[@name='GameModeSurvivalSP']/@value">
+		starterKit,drinkJarBoiledWater,foodCanChili,medicalFirstAidBandage,meleeToolTorch
+	</set>
+
+	<set xpath="/entity_classes/entity_class[@name='playerMale']/property[@class='ItemsOnEnterGame']/property[@name='GameModeSurvivalMP']/@value">
+		starterKit,drinkJarBoiledWater,foodCanChili,medicalFirstAidBandage,meleeToolTorch
+	</set>
+
+</configs>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configs>
+
+	<append xpath="/items">
+
+		<item name="starterKit">
+			<property name="DisplayName" value="starterKit"/>
+			<property name="Extends" value="questRewardBundleMaster"/>
+			<property name="CreativeMode" value="Player"/>
+
+			<property name="CustomIcon" value="bundleTools"/>
+			<property name="CustomIconTint" value="C98A3D"/>
+
+			<property name="ItemTypeIcon" value="bundle"/>
+
+			<property name="DescriptionKey" value="StarterKitDesc"/>
+
+			<property class="Action0">
+				<property name="Create_item"
+					value="vehicleBicyclePlaceable,meleeWpnBladeT1HuntingKnife,meleeToolRepairT0StoneAxe,gunBowT0PrimitiveBow,ammoArrowStone,medicalFirstAidBandage,medicalFirstAidKit,drinkJarPureMineralWater,foodCanChili,resourceRepairKit,resourceLockPick,resourceDuctTape"/>
+
+				<property name="Create_item_count"
+					value="1,1,1,1,30,6,2,4,2,2,10,3"/>
+			</property>
+
+		</item>
+
+	</append>
+
+</configs>
